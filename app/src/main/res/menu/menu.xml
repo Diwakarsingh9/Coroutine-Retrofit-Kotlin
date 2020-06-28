@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/sort_by_names"
+        android:title="@string/sort_by_name"
+        android:icon="@drawable/ic_menu_48"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/sort_by_default"
+        android:title="@string/sort_by_default"
+        android:icon="@drawable/ic_menu_48"
+        app:showAsAction="never"/>
+
+</menu>

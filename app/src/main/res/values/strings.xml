@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="an_alien_is_probably_blocking_your_signal">An alien is probably blocking your signal</string>
+    <string name="wash_your_hands">\nFight against Covid19\n\nWash your hands and give it another try</string>
+    <string name="reload">Reload</string>
+    <string name="title">Title</string>
+    <string name="completed_status">Completed : </string>
+    <string name="_0">0</string>
+    <string name="sort_by_name">Sort by names</string>
+    <string name="sort_by_default">Default</string>
+</resources>
